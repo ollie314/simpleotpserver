@@ -8,12 +8,12 @@
 	<packaging>jar</packaging>
 
 	<name>otpserver</name>
-
+	
 	<parent>
 		<groupId>org.sisdirect.security</groupId>
 		<artifactId>security-infrastructure</artifactId>
 		<version>1.0</version>
-		<relativePath>../../pom.xml</relativePath>
+		<relativePath>../pom.xml</relativePath>
 	</parent>
 
 	<properties>

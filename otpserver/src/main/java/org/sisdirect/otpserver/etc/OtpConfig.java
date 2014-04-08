@@ -1,5 +1,10 @@
 package org.sisdirect.otpserver.etc;
 
+/**
+ * 
+ * @author mlefebvre
+ *
+ */
 public interface OtpConfig {
 	
 	int getCodeDigits();
