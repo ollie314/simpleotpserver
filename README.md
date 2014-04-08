@@ -1,6 +1,8 @@
 Otp Server
 =========
 
+[![Build Status](http://88.191.186.191:9292/job/initial-build/badge/icon)](http://88.191.186.191:9292/job/initial-build/)
+
 This is a 
 
   - security
